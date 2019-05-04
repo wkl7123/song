@@ -16,7 +16,7 @@
 	}
 </script>
 <body>
-<audio id="music"src="euterupe.mp3" autoplay="autoplay" loop="loop" ></audio>
+<audio id="music"src="sound/euterupe.mp3" autoplay="autoplay" loop="loop" ></audio>
 	<h2 style="text-align:center" onclick="toggle()">エウテルペ</h2>
 
 	<p><ruby>咲<rt>さ</rt></ruby>いた<ruby>野<rt>の</rt></ruby>の<ruby>花<rt>はな</rt></ruby>よ</p>
