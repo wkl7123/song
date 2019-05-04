@@ -17,7 +17,7 @@
 </script>
 <body>
 <audio id="music"src="source/lemon.mp3" autoplay="autoplay" loop="loop" ></audio>
-	<h2 style="text-align:center" onclick="toggle()">エウテルペ</h2>
+	<h2 style="text-align:center" onclick="toggle()">Lemon</h2>
 
 	<p><ruby>梦<rt>ゆめ</rt></ruby>ならばどれほどよかったでしょう</p>
 <p><ruby>未<rt>いま</rt></ruby>だにあなたのことを<ruby>梦<rt>ゆめ</rt></ruby>にみる</p>
