@@ -19,7 +19,7 @@
 <audio id="music"src="" autoplay="autoplay" loop="loop" ></audio>
 	<h2 style="text-align:center" onclick="toggle()">Lemon</h2>
 
-<p><ruby>君<rt>きみ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>终<rt>お</rt></ruby>わり <ruby>将来<rt>しょうらい</rt></ruby>の</p><ruby>梦<rt>ゆめ</rt></ruby>
+<p><ruby>君<rt>きみ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>终<rt>お</rt></ruby>わり <ruby>将来<rt>しょうらい</rt></ruby>の<ruby>梦<rt>ゆめ</rt></ruby></p>
 <p><ruby>大<rt>おお</rt></ruby>きな<ruby>希望<rt>きぼう</rt></ruby> <ruby>忘<rt>わす</rt></ruby>れない</p>
 <p>十年<rt>じゅうねん</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>八月<rt>はちがつ</rt></ruby></p>
 <p>また<ruby>出会<rt>であ</rt></ruby>えるのを <ruby>信<rt>しん</rt></ruby>じて</p>
