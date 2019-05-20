@@ -50,3 +50,7 @@ li.title:hover {
 rt {
 	color: #1f3134;
 }
+
+iframe {
+	position: fixed;
+}

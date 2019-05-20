@@ -17,7 +17,7 @@
 </script>
 <body>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27674995&auto=1&height=66"></iframe>
-<audio id="music"src="" autoplay="autoplay" loop="loop" ></audio>
+<audio id="music" src="" autoplay="autoplay" loop="loop" ></audio>
 	<h2 style="text-align:center" onclick="toggle()">secret base ~君がくれたもの~</h2>
 
 <p><ruby>君<rt>きみ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>终<rt>お</rt></ruby>わり <ruby>将来<rt>しょうらい</rt></ruby>の<ruby>梦<rt>ゆめ</rt></ruby></p>
